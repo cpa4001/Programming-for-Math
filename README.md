@@ -7,8 +7,8 @@ Boundaries / Scope (where the functions and responsibilities of the solution sta
 Read through SDSU sage tutorial
 
 Success criteria (set of conditions to be satisfied at completion; must be measurable and verifiable, like a test) </br>
-Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system) </br>
 My own application that will succesfuly complete mathematical operations. </br>
+Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system) </br>
 
 Assumptions (things that are accepted as true or as certain to happen, without proof) </br>
 The courses will be available for the duration of the semester. </br>
