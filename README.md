@@ -7,31 +7,31 @@ Assumptions (things that are accepted as true or as certain to happen, without p
 Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
 
-Goals
+Goals </br>
 Complete the Python for Everybody Specialization
 
-Boundaries / Scope
+Boundaries / Scope </br>
 Complete Course 1 Programming for Everybody (Getting Started with Python) 
 Complete Course 2 Python Data Structures
 
-Success criteria
+Success criteria </br>
 My own application for data retrieval and processing.
 Weekly work log with screenshots and summaries to demonstrate activity.
 
-Constraints
+Constraints </br>
 I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
 
-Assumptions
+Assumptions </br>
 The courses will be available for the duration of the semester.
 I have all required software.
 I can skip the Installing and Using Python units.
 
-Stakeholders
+Stakeholders </br>
 Professor - for grade
 Parents - investing in my education and future success, want to make them proud
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
 
-Week: 
+Week: </br>
 
 Chapter One - Why we Program? (3 hours)
 Chapter Two: Variables and Expressions (3 hours)
