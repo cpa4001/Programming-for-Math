@@ -31,8 +31,8 @@
 - Graduate Schools - Project will be added to portfolio and could help in getting into Graduate school or Research.  
 - Perspective Employers - artifact will be added to my student portfolio which could help with getting a job.  
 
-**Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)**
-Week:
+**Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)** </br>
+Week: </br>
 1.  Part 1. About this tutorial (2 hours)
 2.  Part 2. Sage as a Calculator - Arithmetic and Functions & Solving Equations and Inequalities (3 Hours)
 3.  Part 2 Sage as a Calculator - Calculus (3 Hours)
