@@ -5,7 +5,7 @@
  - To develop a use of python outside general programming.
    
  -  To get a higher understanding of higher level mathematics   
-   - Complete the four sections of the sage tutorial.
+   - Complete the four sections of the sage tutorial and its exercises.
 
 **Boundaries / Scope (where the functions and responsibilities of the solution start and end / what it should do and what is left to other systems to do)**  
 - Read through SDSU sage tutorial  
