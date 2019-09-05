@@ -47,8 +47,8 @@ Week: </br>
 11. Part 4 Mathematical Structures - Rings (4 Hours)
 12. Part 4 Mathematical Structures - Fields and Coding Theory (4 Hours)
 
-**Week 1: About This Tutorial (Less than 1 Hour)**
+**Week 1: About This Tutorial (Less than 1 Hour)** </br>
 I downloaded the open-source sage software on to my computer, and saw the three methods to use sage: a command line, a shell that call on scripts, and an online notebook. I learned about tab completion which is a feature of sage that allows one to enter the first couple letters of a function and [TAB], which returns all functions that are similar to that function. Sage also has a feature to use x.[TAB], where x can be an integer and sage returns all functions that can work with x.
 
-**Week 2:  Sage as a Calculator - Arithmetic and Functions & Solving Equations and Inequalities (3-4 hours)**
+**Week 2:  Sage as a Calculator - Arithmetic and Functions & Solving Equations and Inequalities (3-4 hours)** </br>
 Arithmetic and Functions introduces the basic aritmetic operators, and how sage processes commands through order of operations (PEMDAS). In Basic Aritmeric, I saw basic functions in algebra and trigonometry including sin(x), cos(x), abs(x) (absolute value), log(x)/ ln(x), exp(x) (which takes e to any power), and the major constants of pi and e. I also learned of some of the errors that can occur with sage; for example, when dealing with irrational numbers or an infinite amount of digits, computers can round off and perform inaccurate calculations. Additionally, computers process information in binary where humans have the decimal system and this can create a discrepancy in mathematics.
