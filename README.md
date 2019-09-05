@@ -33,9 +33,10 @@
 
 **Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)** </br>
 Week: </br>
-1.  Part 1. About this tutorial (2 hours)
-2.  Part 2. Sage as a Calculator - Arithmetic and Functions & Solving Equations and Inequalities (3 Hours)
-3.  Part 2 Sage as a Calculator - Calculus (3 Hours)
+
+1. Part 1. About this tutorial (2 hours)
+2. Part 2. Sage as a Calculator - Arithmetic and Functions & Solving Equations and Inequalities (3 Hours)
+3. Part 2 Sage as a Calculator - Calculus (3 Hours)
 4. Part 2 Sage as a Calculator - Statistics and Plotting (3+ hours)
 5. Part 3 Programming in Sage - Sage Objects (3 Hours)
 6. Part 3 Programming in Sage - Programming Tools (3 Hours)
