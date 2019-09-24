@@ -64,3 +64,6 @@ In the Sage Objects module, I learned mostly about the basic concepts and semant
 
 **Week 6: Programming in Sage - Programming Tools (3 hours)** </br>
 This module further explored more of the programming side of sage than the math side. I learned if statments and how I can use conditionals to create code that decides what will be executed. I learned about for loops that can execute something for a fixed amount of times, along with while loops that iterate until a condition is no longer met. Additionally, the module showed functions that the user defines with or without parameters and then calls. Something new to me, was list comprehensions which were a quick way to create a list of data points such as [ k for k in [1 .. 20] if k % 2 == 0]. 
+
+**Week 7: Programming in Sage - Packages within sage & Interactive Demonstrations (2 Hours)** </br>
+This module goes over other packages or modules that sage developers create for users to utilize, sage showed off one package that specializes in modifying lists to create Groups. It also showed how to use these packages in the online notebook and some interactive applets that are accesible on the notebook. For example,  I was able to create an input box for text, a slider to pick a number, and a slider that helped in creating a graph. 
