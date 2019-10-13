@@ -43,7 +43,7 @@ Week: </br>
 7. Part 3 Programming in Sage - Packages within  sage & Interactive Demonstrations (2 Hours)
 8. Part 4 Mathematical Structures - Integers and Modular Arithmetic (3 Hours)
 9. Part 4 Mathematical Structures - Groups (3 Hours)
-10. Part 4 Mathematical Structures - Linear Algebra ( 3 Hours)
+10. Part 4 Mathematical Structures - Linear Algebra (3 Hours)
 11. Part 4 Mathematical Structures - Rings (4 Hours)
 12. Part 4 Mathematical Structures - Fields and Coding Theory (4 Hours)
 
@@ -73,3 +73,7 @@ This module begins with the concept of the ring of integers modulo which are all
 
 **Week 9: Mathematical Structures - Groups (3 Hours)** </br>
 This module provides an introduction to groups which is just a representation of a group of elelments, but a group is different from a set, list, or array. Sage allows the user to create groups of n amount of elements, and each element is represented in cycles or tuples. I learned how to take the products of elements and exponentiate elements which would result in the creation of new elements. The module also showed how to create subgroups and how to find elements that are conjugate, those that are the multiplicative inverse of the elements of the second group, of a certain group. The most difficult concept of this module were homeomorphisms which try to map one group onto another. Group Theory is very complex, but has numerous applications in science and engineering; subsequently, it seems that to better understand Group Theory, I would have to do some research in Abstract Algebra and Modern Algebra.
+
+**Week 10: Mathematical Structures - Linear Algebra (3 Hours)** </br>
+This module introduces the structures of vectors and matrices - an organization of vectors - and the operations that can be performed with such structures including dot products, scalar muultiplication, addition, subtraction, etc. Sage has many commands on creating matrices and manipulating them though swapping rows or columns, scalar multiplication of rows or columns, hard-coding certain rows or columns, etc. Sage also shows the ring of matrices which is a command that creates a space that includes all matrices of a specified dimension. That matrix space can be used to create any matrix of that dimension and find special characteristics of the matrix. These matrices and vectors have special applications on a wide variety of fields ranging from the Google page rank algorithm all the way to matrix mechanics in quantum physics.
+
