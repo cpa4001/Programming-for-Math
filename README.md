@@ -1,5 +1,5 @@
 # Programming for Math
-You can find this tutorial at https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/index.html
+You can find this tutorial at https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/index.html </br>
 **Goals (high level intended outcomes; for software, a Product Backlog)**  
 
  - To get an introduction into computational mathematics   
