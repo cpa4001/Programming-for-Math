@@ -18,7 +18,7 @@ You can find this tutorial at https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tut
 - Weekly work log with screenshots and summaries to demonstrate activity.  
 
 **Constraints (externally imposed limitations on system requirements, design, or implementation or on the process** used to develop or modify a system)  
-- I am only a precalculus student; therefore, my mathematical knowledge does not extend that much past Calculus.
+- I am only a precalculus student (at the time of implementation); therefore, my mathematical knowledge does not extend that much past Calculus.
 
 **Assumptions (things that are accepted as true or as certain to happen, without proof)**  
 - The tutorial will be available for the duration of the semester.  
